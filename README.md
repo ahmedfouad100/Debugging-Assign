@@ -14,7 +14,7 @@ styles.side - bar
 
 4- App.jsx
 
-  <Todolist /> 
+  Todolist /
 
 5- Home.jsx 
 
@@ -28,5 +28,5 @@ styles.side - bar
 
 8- Define useNavigate
 
-9- Adding <Outlet/>
+9- Adding Outlet/
 
