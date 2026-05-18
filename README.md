@@ -4,7 +4,7 @@ A React.js assignment where the application is intentionally broken with multipl
 ## Errors & Bugs
 1- TodoItem.jsx 
 
-  Additinal (````<BrowserRouter>) is added.
+  Additinal (````BrowserRouter) is added.
   
 2- Sidebar.jsx
 
